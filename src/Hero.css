@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+}
+textarea {
+  border-radius: 10px;
+  height: 100px;
+  width: 500px;
+}
+.go {
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  background-color: #1c63cc;
+  border-color: transparent;
+  color: white;
+  cursor: pointer;
+}
+
+.go:hover {
+  background-color: #0000ff;
+}
